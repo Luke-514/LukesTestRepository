@@ -3,11 +3,3 @@
 
 # 利用規約
 許可したメンバー以外の利用、コピー、配布、解析を固く禁じる
-
-# 紹介コード
-STAR-9YPT-ZV5J  
-STAR-XXXX-XXXX  
-STAR-XXXX-XXXX  
-STAR-XXXX-XXXX  
-STAR-XXXX-XXXX  
-STAR-XXXX-XXXX  
